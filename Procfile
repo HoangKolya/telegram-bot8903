@@ -1,1 +1,1 @@
-worker: cd $HOME/heroku_output && ./AnimeTelegramBot
+worker: csc ./AnimeTelegramBot/Program.cs
